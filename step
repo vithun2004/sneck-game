@@ -1,0 +1,16 @@
+To run the Python code for the Snake game, you'll need to follow these steps:
+
+Install Python: If you don't have Python installed on your computer, you can download it from the official Python website and follow the installation instructions.
+
+Install Pygame library: Open a terminal or command prompt and run the following command to install the Pygame library:
+
+pip install pygame
+Create a new Python file: Open a text editor or an integrated development environment (IDE) and paste the provided Python code into a new file.
+      
+Save the file: Save the file with a .py extension, for example, snake_game.py.
+
+Run the Python file: Open a terminal or command prompt, navigate to the directory where you saved the Python file, and run the following command:
+
+python snake_game.py
+Play the game: Once you run the Python file, a window should open displaying the Snake game. You can use the arrow keys to control the snake and try to eat the food while avoiding collisions with the walls and the snake itself.
+Following these steps should allow you to run the Snake game code successfully. If you encounter any issues or have further questions, feel free to ask!
